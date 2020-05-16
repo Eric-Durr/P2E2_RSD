@@ -40,8 +40,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg height=\"443\" width=\"635\"><rect fill=\"#00ffff\" fill-opacity=\"1.0\" height=\"443\" stroke=\"#000000\" stroke-width=\"2\" width=\"635\" /></svg>",
-                "x": -469,
-                "y": -375,
+                "x": -465,
+                "y": -390,
                 "z": -1
             },
             {
@@ -581,7 +581,7 @@
                 "template_id": null,
                 "width": 66,
                 "x": 27,
-                "y": -78,
+                "y": -84,
                 "z": 0
             },
             {
@@ -1224,6 +1224,6 @@
     },
     "type": "topology",
     "variables": null,
-    "version": "2.2.6",
+    "version": "2.2.7",
     "zoom": 119
 }

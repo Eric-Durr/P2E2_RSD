@@ -1,0 +1,12 @@
+May 16 21:05:48.777 HYPERVISOR: Release 0.2.21-amd64/Linux (tag 2019071212)
+May 16 21:05:48.777 HYPERVISOR: Started on IP = localhost, TCP port = 38093.
+May 16 21:05:48.787 HYPERVISOR: exec_cmd: hypervisor version 
+May 16 21:05:48.787 HYPERVISOR: exec_cmd: hypervisor working_dir /home/labredes/Desktop/P2_E2/pr2dir/project-files/dynamips 
+May 16 21:05:48.787 GENERAL: working_dir=/home/labredes/Desktop/P2_E2/pr2dir/project-files/dynamips
+May 16 21:05:48.788 HYPERVISOR: exec_cmd: ethsw create SW2 
+May 16 21:05:49.348 HYPERVISOR: exec_cmd: nio create_udp udp-5286b5e5-c399-48ef-bce1-be789dbbcbaf 10008 127.0.0.1 10009 
+May 16 21:05:49.348 HYPERVISOR: exec_cmd: ethsw add_nio SW2 udp-5286b5e5-c399-48ef-bce1-be789dbbcbaf 
+May 16 21:05:49.354 HYPERVISOR: exec_cmd: ethsw set_access_port SW2 udp-5286b5e5-c399-48ef-bce1-be789dbbcbaf 1 
+May 16 21:05:49.608 HYPERVISOR: exec_cmd: nio create_udp udp-e50d1800-98de-4523-bf2e-aaf9f107ab59 10015 127.0.0.1 10014 
+May 16 21:05:49.609 HYPERVISOR: exec_cmd: ethsw add_nio SW2 udp-e50d1800-98de-4523-bf2e-aaf9f107ab59 
+May 16 21:05:49.611 HYPERVISOR: exec_cmd: ethsw set_access_port SW2 udp-e50d1800-98de-4523-bf2e-aaf9f107ab59 1 
