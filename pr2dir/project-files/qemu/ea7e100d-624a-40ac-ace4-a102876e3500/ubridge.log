@@ -1,14 +1,14 @@
 uBridge version 0.9.18 running with libpcap version 1.8.1
-Hypervisor TCP control server started (IP localhost port 41827).
+Hypervisor TCP control server started (IP localhost port 37251).
 UDP tunnel connecting from local port 10025 to IPv4 address 127.0.0.1 on port 10024
 UDP tunnel connecting from local port 10019 to IPv4 address 127.0.0.1 on port 10018
 UDP tunnel connecting from local port 10027 to IPv4 address 127.0.0.1 on port 10026
+Destination NIO listener thread for QEMU-ea7e100d-624a-40ac-ace4-a102876e3500-0 has started
 UDP tunnel connecting from local port 10011 to IPv4 address 127.0.0.1 on port 10010
 UDP tunnel connecting from local port 10029 to IPv4 address 127.0.0.1 on port 10028
 UDP tunnel connecting from local port 10000 to IPv4 address 127.0.0.1 on port 10001
-Source NIO listener thread for QEMU-ea7e100d-624a-40ac-ace4-a102876e3500-1 has started
-Destination NIO listener thread for QEMU-ea7e100d-624a-40ac-ace4-a102876e3500-2 has started
-Destination NIO listener thread for QEMU-ea7e100d-624a-40ac-ace4-a102876e3500-0 has started
-Source NIO listener thread for QEMU-ea7e100d-624a-40ac-ace4-a102876e3500-2 has started
-Destination NIO listener thread for QEMU-ea7e100d-624a-40ac-ace4-a102876e3500-1 has started
 Source NIO listener thread for QEMU-ea7e100d-624a-40ac-ace4-a102876e3500-0 has started
+Source NIO listener thread for QEMU-ea7e100d-624a-40ac-ace4-a102876e3500-1 has started
+Destination NIO listener thread for QEMU-ea7e100d-624a-40ac-ace4-a102876e3500-1 has started
+Destination NIO listener thread for QEMU-ea7e100d-624a-40ac-ace4-a102876e3500-2 has started
+Source NIO listener thread for QEMU-ea7e100d-624a-40ac-ace4-a102876e3500-2 has started

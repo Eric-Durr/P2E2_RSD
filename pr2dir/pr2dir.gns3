@@ -2,8 +2,8 @@
     "auto_close": true,
     "auto_open": false,
     "auto_start": false,
-    "drawing_grid_size": 25,
-    "grid_size": 75,
+    "drawing_grid_size": 0,
+    "grid_size": 0,
     "name": "pr2dir",
     "project_id": "0e37a307-4450-4d52-948e-f6acdd0dd70b",
     "revision": 9,
@@ -580,8 +580,8 @@
                 "symbol": ":/symbols/router.svg",
                 "template_id": null,
                 "width": 66,
-                "x": 24,
-                "y": -81,
+                "x": 27,
+                "y": -78,
                 "z": 0
             },
             {
@@ -1224,11 +1224,6 @@
     },
     "type": "topology",
     "variables": null,
-<<<<<<< HEAD
     "version": "2.2.7",
     "zoom": 100
-=======
-    "version": "2.2.6",
-    "zoom": 119
->>>>>>> 4248cf3fe0781d28dcd2e699a3d7c6b962ea5acf
 }
